@@ -1,8 +1,8 @@
 // ==UserScript==
-// @name         Codewars 题目汉化工具
+// @name         Codewars 沉浸式题目汉化工具
 // @namespace    http://tampermonkey.net/
 // @version      1.0.0
-// @description  Codewars 题目汉化工具，支持中英对照、用户 API Key，并在 Kata 切换时自动刷新页面。
+// @description  Codewars 沉浸式题目汉化工具，支持中英对照、用户 API Key(Gemini)，并在 Kata 切换时自动刷新页面。
 // @author       Cerry2025 & AI Assistant & User Request
 // @license      MIT
 // @homepageURL  https://github.com/Cerry2022/Codewars-Immersive-Translator
